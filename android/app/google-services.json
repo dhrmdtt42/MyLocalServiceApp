@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760497801540",
+    "firebase_url": "https://haarway-293015.firebaseio.com",
+    "project_id": "haarway-293015",
+    "storage_bucket": "haarway-293015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760497801540:android:751b523c3fa69acd0e2f11",
+        "android_client_info": {
+          "package_name": "com.haarway.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760497801540-j1sjr19a7tdr5v9crj2eh65jfnksc34c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPe96o3GXuAuyQSkhf8FHxbdxfOUvEofg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760497801540-j1sjr19a7tdr5v9crj2eh65jfnksc34c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
